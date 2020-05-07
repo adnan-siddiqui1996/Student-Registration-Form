@@ -1,0 +1,156 @@
+input[type=radio], input[type=checkbox] {
+    width:10%;
+    height: 1em;
+}
+    #ty{
+        color: #25b81c;
+        font-weight: bold;
+    }
+
+    #image{
+        padding-top: 4%;
+    }
+    #tick{
+        margin-top: 10%;
+        width: 500px;
+    
+    }
+    h3{
+        padding-top: 1%;
+        color: #293df2;
+        font-weight: bold;
+        text-align: center;
+    }
+    #field{
+        background-color:royalblue;
+        margin: 0% 2% 2% 2%;
+        height: 2000px;
+        width: 96%;
+    }
+    .column1{   
+        font-size: 20px;
+        padding-left: 1%;
+        position: absolute;
+        width: 210px;   
+        color: white;
+    }
+    .column2{
+        font-size: 20px;
+        margin-left: 210px;
+        position: absolute;
+        width: 330px;   
+        color: white;
+    }
+    .column3{
+        font-size: 20px;
+        margin-left: 540px;
+        position: absolute;
+        width: 400px;   
+        color: white;
+    }
+    #row1{
+        position: absolute;
+        margin-top: 1.5%;
+        margin-left: 1%;
+    }
+    #row2{
+        position: absolute;
+        margin-top: 7%;
+        margin-left: 1%;
+    }
+    #row3{
+        position: absolute;
+        margin-top: 12.5%;
+        margin-left: 1%;
+    }
+    #row4{
+        position: absolute;
+        margin-top: 18%;
+        margin-left: 1%;
+    }
+    #row5{
+        position: absolute;
+        margin-top: 23.5%;
+        margin-left: 1%;
+    }
+    #row6{
+        position: absolute;
+        margin-top: 29%;
+        margin-left: 1%;
+    }
+    #row7{
+        position: absolute;
+        margin-top: 34.5%;
+        margin-left: 1%;
+    }
+    #row8{
+        position: absolute;
+        margin-top: 47%;
+        margin-left: 1%;
+    }
+    #row9{
+        position: absolute;
+        margin-top: 52.5%;
+        margin-left: 1%;
+    }
+    #row10{
+        position: absolute;
+        margin-top: 58%;
+        margin-left: 1%;
+    }
+    #row11{
+        position: absolute;
+        margin-top: 63.5%;
+        margin-left: 1%;
+    }
+    #row12{
+        position: absolute;
+        margin-top: 69%;
+        margin-left: 1%;
+    }
+    #row13{
+        position: absolute;
+        margin-top: 77%;
+        margin-left: 1%;
+    }
+    #row14{
+        position: absolute;
+        margin-top: 97%;
+        margin-left: 1%;
+    }
+    #submitButton{
+        position: absolute;
+        margin-top: 104%;
+        margin-left: 35%;
+    }
+    #resetButton{
+        position: absolute;
+        margin-top: 104%;
+        margin-left: 47%;
+    }
+    .button{
+        width: 150px;
+        height: 50px;
+        border: none;
+        color: #bbc7f0;
+        background-color: #0d15b8;
+        text-align: center;
+        font-size: 18px;
+    }
+    .button:hover{
+        width: 150px;
+        height: 50px;
+        border: none;
+        color: #0d15b8;
+        background-color: #bbc7f0;
+        text-align: center;
+        font-size: 18px;
+    }
+    marquee{
+        color: teal;
+        margin-left: 10%;
+        width: 80%;
+        font-weight: bold;
+        font-size: 20px;
+
+    }
